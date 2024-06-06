@@ -1,0 +1,10 @@
+gmail1@.com/parole1
+gmail2@.com/parole2
+gmail3@.com/parole3
+gmail4@.com/parole4
+gmail5@.com/parole5
+gmail6@.com/parole6
+gmail7@.com/parole7
+gmail8@.com/parole8
+gmail9@.com/parole9
+gmail10@.com/parole10
